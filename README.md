@@ -1,5 +1,7 @@
 To run: Inside API:  `dotnet watch run`
 
+Swagger: `http://localhost:5001/swagger/v1/swagger.json` or  `https://localhost:5001/swagger`
+
 Create a new project: Inside root: `dotnet new classlib -o [Project name]`
 
 Add csproj file to project: `dotnet sln add [Project name]`
